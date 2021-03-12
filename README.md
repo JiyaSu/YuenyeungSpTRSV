@@ -40,13 +40,13 @@ YuenyeungSpTRSV is developed by Renmin University of China, China University of 
 
 Feng Zhang, Ruofan Wu and Xiaoyong Du are with the Key Laboratory of Data Engineering and Knowledge Engineering (MOE), and School of Information, Renmin University of China.
 
+Jiya Su and Rujia Wang is with the Computer Science Department, Illinois Institute of Technology.
+
 Weifeng Liu is with the Super Scientific Software Laboratory, Department of Computer Science and Technology, China University of Petroleum.
 
 Bingsheng He is with the School of Computing, National University of Singapore.
 
-Jiya Su and Rujia Wang is with the Computer Science Department, Illinois Institute of Technology.
-
-If you have any questions, please contact us (Jiya_Su@ruc.edu.cn or jsu18@hawk.iit.edu).
+If you have any questions, please contact us (jsu18@hawk.iit.edu or Jiya_Su@ruc.edu.cn).
 
 ## Citation
 
